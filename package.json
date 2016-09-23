@@ -1,0 +1,24 @@
+{
+  "name": "jonas-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seikho/jonas-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seikho/jonas-game/issues"
+  },
+  "homepage": "https://github.com/seikho/jonas-game#readme",
+  "devDependencies": {
+    "@types/node": "^6.0.40",
+    "typescript": "^2.1.0-dev.20160922"
+  }
+}
